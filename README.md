@@ -4,7 +4,7 @@
 
 Para compilação e entrega de projetos escritos em Dart
 
-Veja mais em [hub.docker.com/r/tmvdl/java](https://hub.docker.com/r/tmvdl/java)
+Veja mais em [hub.docker.com/r/tmvdl/dart](https://hub.docker.com/r/tmvdl/dart)
 
 ## Como usar
 
@@ -12,14 +12,14 @@ Instalar o [Docker](https://docs.docker.com/engine/install/).
 
 ### Em ambiente de desenvolvimento (opção 1)
 
-Criar um arquivo `docker-compose.yaml` na raiz do projeto com a imagem [tmvdl/java](https://hub.docker.com/r/tmvdl/java):
+Criar um arquivo `docker-compose.yaml` na raiz do projeto com a imagem [tmvdl/dart](https://hub.docker.com/r/tmvdl/dart):
 
 ```yaml
 version: '3'
 
 services:
   app:
-    image: tmvdl/java
+    image: tmvdl/dart
     volumes:
       - .:/app
 ```
@@ -43,7 +43,7 @@ bash env/run.sh maven
 Executar com container do Docker:
 
 ```sh
-docker run tmvdl/java
+docker run tmvdl/dart
 ```
 
 ## License
