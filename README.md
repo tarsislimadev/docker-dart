@@ -1,8 +1,8 @@
-# Docker Java
+# Docker Dart
 
-[![github/actions/workflow/status](https://img.shields.io/github/actions/workflow/status/brtmvdl/docker-java/docker-push.yml)](https://img.shields.io/github/actions/workflow/status/brtmvdl/docker-java/docker-push.yml) [![github/license](https://img.shields.io/github/license/brtmvdl/docker-java)](https://img.shields.io/github/license/brtmvdl/docker-java) [![github/stars](https://img.shields.io/github/stars/brtmvdl/docker-java?style=social)](https://img.shields.io/github/stars/brtmvdl/antify?style=social)
+[![github/actions/workflow/status](https://img.shields.io/github/actions/workflow/status/brtmvdl/docker-dart/docker-push.yml)](https://img.shields.io/github/actions/workflow/status/brtmvdl/docker-dart/docker-push.yml) [![github/license](https://img.shields.io/github/license/brtmvdl/docker-dart)](https://img.shields.io/github/license/brtmvdl/docker-dart) [![github/stars](https://img.shields.io/github/stars/brtmvdl/docker-dart?style=social)](https://img.shields.io/github/stars/brtmvdl/antify?style=social)
 
-Para compilação e entrega de projetos escritos em Java
+Para compilação e entrega de projetos escritos em Dart
 
 Veja mais em [hub.docker.com/r/tmvdl/java](https://hub.docker.com/r/tmvdl/java)
 
