@@ -3,9 +3,9 @@ version: '3'
 services:
 
   latest:
-    image: 'tmvdl/android:latest'
+    image: 'tmvdl/dart:latest'
     build: './src/latest'
 
   flutter:
-    image: 'tmvdl/android:flutter'
+    image: 'tmvdl/dart:flutter'
     build: './src/flutter'
