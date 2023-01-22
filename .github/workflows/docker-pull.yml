@@ -9,5 +9,5 @@ jobs:
   docker:
     runs-on: ubuntu-latest
     steps:
-        name: Docker pull
+      - name: Docker pull
         run: docker pull tmvdl/dart -a
