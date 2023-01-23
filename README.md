@@ -2,7 +2,7 @@
 
 [![github/actions/workflow/status](https://img.shields.io/github/actions/workflow/status/brtmvdl/docker-dart/docker-push.yml)](https://img.shields.io/github/actions/workflow/status/brtmvdl/docker-dart/docker-push.yml) [![github/license](https://img.shields.io/github/license/brtmvdl/docker-dart)](https://img.shields.io/github/license/brtmvdl/docker-dart) [![github/stars](https://img.shields.io/github/stars/brtmvdl/docker-dart?style=social)](https://img.shields.io/github/stars/brtmvdl/antify?style=social)
 
-To compile and dpeloydeploy Dart projects. 
+To compile and deploy Dart projects. 
 
 See more [hub.docker.com/r/tmvdl/dart](https://hub.docker.com/r/tmvdl/dart)
 
